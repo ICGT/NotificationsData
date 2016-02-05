@@ -2,14 +2,14 @@
 	"title": "Spring Sports Tournament Updates",
 	"updates": [
 		{
-			"header": "Test title",
-			"subtitle": "Posted 2/4/16 7:58pm",
-			"description": "Test description"
+			"header": "Basketball Tournament 1",
+			"subtitle": "CRC 5th floor",
+			"description": "Basketball tournament 1 has started."
 		},
 		{
-			"title": "Test title",
-			"subtitle": "Posted 2/4/16 7:58pm",
-			"description": "Test description"
+			"header": "Registration open!",
+			"subtitle": "CRC Lobby",
+			"description": "Check in is open."
 		}
 	]
 }
